@@ -73,11 +73,9 @@ This section only applies to you if you use a non-vanilla client.
 * Do not attempt to lag / crash the server.
 * Do not abuse bugs.
   * Please report them via Discord. If you do not have Discord please E-mail us at [soltide@pbsi.xyz](mailto:soltide@pbsi.xyz)
-*   Do not create farms that use an excessive amount of entities.
-
-    * If your farm uses more than 300 entities you may be asked to limit it or your farm may be removed.
-
-
+* Do not create farms that use an excessive amount of entities.
+  * If your farm uses more than 300 entities you may be asked to limit it or your farm may be removed.
+* Do not teleport trap / kill players. ([**See more info here**](tpa-trapping-killing.md))
 
 ### Account Customization:
 
@@ -91,7 +89,7 @@ While Soltide is a server in a game, real life laws still apply! Make sure you f
 
 **It is against the law  and rules to DDoS the server. Doing so will result in a blacklist and a report to the relevant authorities .**
 
-**It is against the law and rules to threaten to**
+**It is against the law and rules to do or threaten to:**
 
 * Dox a person
 * DDoS a person
@@ -104,12 +102,12 @@ _A ban for any of the above reasons will be reported to authorities and **CANNOT
 
 ### Appeals:
 
-**In-Game Ban:**
+**In-Game Bans:**
 
-Join our Discord and run the /appeal command in any channel.
+Join our Discord and run the <kbd>/appeal</kbd> command in any channel.
 
 Don't have Discord? E-mail us at [soltide@pbsi.xyz](mailto:soltide@pbsi.xyz) .
 
-**Discord Ban:**
+**Discord Bans:**
 
 Appeal Here: [https://appeal.gg/wKdKpdDSN8](https://appeal.gg/wKdKpdDSN8)

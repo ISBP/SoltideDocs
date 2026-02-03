@@ -4,7 +4,8 @@
 
 ## Info
 
-* [Rules](info/rules.md)
+* [Rules](info/rules/README.md)
+  * [TPA Trapping / Killing](info/rules/tpa-trapping-killing.md)
 * [Overview](info/overview.md)
 
 ## Features
