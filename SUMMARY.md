@@ -4,6 +4,7 @@
 
 ## Info
 
+* [Rules](info/rules.md)
 * [Overview](info/overview.md)
 
 ## Features
