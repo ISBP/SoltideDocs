@@ -3,7 +3,7 @@
 ## What is Soltide
 
 Soltide is an SMP server with a focus on combat and grinding, but it can be whatever you want it to be!\
-Soltide attempts to offer a semi-vanilla experience but with more engagement, challenge and grinding.
+Soltide attempts to offer a semi-vanilla experience but with more engagement, challenge and grinding!&#x20;
 
 ## How do you play Soltide
 

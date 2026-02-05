@@ -10,7 +10,7 @@ description: >-
 These rules are non-conclusive and may be updated at any time! Please make sure to check back frequently.&#x20;
 {% endhint %}
 
-### Communication:
+### Communication
 
 {% hint style="info" %}
 Soltide tries to create a fun and safe space for everyone, and thus please make sure to follow our communication rules in all of your interactions, whether it be through chat, signs, books, or voice chat.
@@ -35,7 +35,7 @@ Failure to comply with these rules will result in permanent removal of access to
 * Loud / Obnoxious noises are disallowed.
 * Soundboards are disallowed.
 
-### Client Modifications:
+### Client Modifications
 
 {% hint style="warning" %}
 All modifications that give you a notable unfair advantage over other players is disallowed, and this list is non-conclusive. Unsure if a certain mod is disallowed? Reach out to us on Discord.
@@ -54,7 +54,7 @@ This section only applies to you if you use a non-vanilla client.
 
 * Lunar Client
 * Feather Client
-* Bad lion client
+* Badlion client
 
 **Banned Client Modifications:**
 
@@ -63,9 +63,9 @@ This section only applies to you if you use a non-vanilla client.
 * Macros / Auto Mine
   * All forms of automated inputs is disallowed!
 * X-Ray / Ore Finder / ESP / Base Finder.
-  * Any modification that allows you to see blocks otherwise not viewable is disallowed.
+  * Any modification that allows you to see blocks / entities otherwise not viewable is disallowed.
 
-### Game-Play:
+### Game-Play
 
 * Do not farm / spam kill players.
 * Do not use alternate accounts.
@@ -77,11 +77,12 @@ This section only applies to you if you use a non-vanilla client.
   * If your farm uses more than 300 entities you may be asked to limit it or your farm may be removed.
 * Do not teleport trap / kill players. ([**See more info here**](tpa-trapping-killing.md))
 
-### Account Customization:
+### Account Customization
 
 * Accounts with NSFW or controversial usernames / skins will be blocked from the server.
+  * If you've received a punishment for this offense, change the offending material and fill out an appeal [**here**](./#appeals)**.**&#x20;
 
-### Safety & Legal:
+### Safety & Legal
 
 {% hint style="danger" %}
 While Soltide is a server in a game, real life laws still apply! Make sure you follow all local laws when playing.
@@ -92,15 +93,15 @@ While Soltide is a server in a game, real life laws still apply! Make sure you f
 **It is against the law and rules to do or threaten to:**
 
 * Dox a person
-* DDoS a person
-* Sexually harass a person
+* DDoS a person or the server
+* Harass a person
 * Threaten the safety of a person
 
 _A ban for any of the above reasons will be reported to authorities and **CANNOT** be appealed._
 
 
 
-### Appeals:
+### Appeals
 
 **In-Game Bans:**
 
