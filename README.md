@@ -14,17 +14,17 @@ Soltide is a Minecraft S.M.P. server with a strong focus on grinding and combat!
 
 ### How do I join?
 
-See the information on how to join Soltide [here](tutorials/how-to-join.md). Please note that Soltide does not support "cracked" / pirated accounts.
+See the information on how to join Soltide [here](https://docs.soltide.net/info/joining). Please note that Soltide does not support "cracked" / pirated accounts.
 
 ### What are the rules?
 
-See the rules [here](info/rules/). Make sure to read the rules in entirety before playing to prevent punishments!&#x20;
+See the rules [here](https://docs.soltide.net/important/rules). Make sure to read the rules in entirety before playing to prevent punishments!&#x20;
 
 ### How do I become a staff member?
 
-View information on becoming a staff member [here](info/staff.md)!
+View information on becoming a staff member [here](https://docs.soltide.net/info/staff)!
 
 ### How can I contact the staff team?
 
-You can learn more about contacting the staff team for support [here](important/support.md)!
+You can learn more about contacting the staff team for support [here](https://docs.soltide.net/important/support)!
 
