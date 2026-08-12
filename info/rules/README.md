@@ -54,7 +54,7 @@ All modifications that give you a notable unfair advantage over other players is
 This section only applies to you if you use a non-vanilla client.
 
 * Lunar Client
-* Feather Client
+* Dawn Client
 * Badlion client
 
 **Banned Client Modifications:**
@@ -100,8 +100,6 @@ While Soltide is a server in a game, real life laws still apply! Make sure you f
 * Threaten the safety of a person
 
 _A ban for any of the above reasons will be reported to authorities and **CANNOT** be appealed._
-
-
 
 ### Appeals
 
