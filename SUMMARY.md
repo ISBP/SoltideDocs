@@ -24,6 +24,10 @@
 * [Homes](tutorials/homes.md)
 * [Inventory Restoration](info/inventory-restoration.md)
 
+## Extra
+
+* [History](extra/history.md)
+
 ## Legal
 
 ***
