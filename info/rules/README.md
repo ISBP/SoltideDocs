@@ -101,6 +101,10 @@ While Soltide is a server in a game, real life laws still apply! Make sure you f
 
 _A ban for any of the above reasons will be reported to authorities and **CANNOT** be appealed._
 
+### Facilitation
+
+Facilitating, benefiting from, or failing to report a rule violation will result in a punishment for up to the same duration as the offending player.
+
 ### Appeals
 
 **In-Game Bans:**
@@ -112,3 +116,4 @@ Don't have Discord? E-mail us at [soltide@pbsi.xyz](mailto:soltide@pbsi.xyz) .
 **Discord Bans:**
 
 Appeal Here: [https://appeal.gg/wKdKpdDSN8](https://appeal.gg/wKdKpdDSN8)
+

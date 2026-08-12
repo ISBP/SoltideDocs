@@ -1,5 +1,8 @@
 ---
-description: Information regarding punishments on Soltide can be found here.
+description: >-
+  Information regarding punishments on Soltide can be found here. Please note
+  that not all punishments are listed here, and durations are subject to the
+  issuing moderator's discretion.
 ---
 
 # Punishments
