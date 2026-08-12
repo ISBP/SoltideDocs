@@ -15,6 +15,7 @@
 
 * [Custom Enchants](features/custom-enchants.md)
 * [Battle Arena](features/battle-arena.md)
+* [Duels](features/duels.md)
 
 ## info
 
