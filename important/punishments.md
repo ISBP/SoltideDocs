@@ -8,6 +8,10 @@ description: Information regarding punishments on Soltide can be found here.
 To appeal a punishment, please see [this section](../info/rules/#appeals).&#x20;
 {% endhint %}
 
+{% hint style="warning" %}
+If you commit multiple violations the duration of the punishments will be summed. Furthermore, the severity of the punishments may be increased!
+{% endhint %}
+
 ## Ban-able Offenses:
 
 ### Cheating
@@ -135,7 +139,7 @@ This punishment includes the usage of slurs, doxxing threats, IRL threats, and o
 
 ### Ban
 
-This punishment is a restriction placed upon  your account which disallows said account from joining the server.
+This punishment is a restriction placed upon your account which disallows said account from joining the server.
 
 ### Mute
 
