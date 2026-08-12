@@ -77,6 +77,7 @@ This section only applies to you if you use a non-vanilla client.
 * Do not create farms that use an excessive amount of entities.
   * If your farm uses more than 300 entities you may be asked to limit it or your farm may be removed.
 * Do not teleport trap / kill players. ([**See more info here**](tpa-trapping-killing.md))
+* Do not create obscene content, whether it be through builds, banners, map art, or other mediums.
 
 ### Account Customization
 
