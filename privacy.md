@@ -17,30 +17,19 @@ This Privacy Notice for Soltide ("**we**," "**us**," or "**our**"), describes ho
 
 ### **Table of contents**
 
-[1. WHAT INFORMATION DO WE COLLECT?](https://store.soltide.net/legal/privacy#infocollect)
-
-[2. HOW DO WE PROCESS YOUR INFORMATION?](https://store.soltide.net/legal/privacy#infouse)
-
-[3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](https://store.soltide.net/legal/privacy#legalbases)
-
-[4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](https://store.soltide.net/legal/privacy#whoshare)
-
-&#x20;[5. HOW LONG DO WE KEEP YOUR INFORMATION?](https://store.soltide.net/legal/privacy#inforetain)
-
-[6. HOW DO WE KEEP YOUR INFORMATION SAFE](https://store.soltide.net/legal/privacy#infosafe)
-
-[?](https://store.soltide.net/legal/privacy#infosafe)[7. WHAT ARE YOUR PRIVACY RIGHTS?](https://store.soltide.net/legal/privacy#privacyrights)
-
-[8. CONTROLS FOR DO-NOT-TRACK FEATURES](https://store.soltide.net/legal/privacy#DNT)
-
-[9. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](https://store.soltide.net/legal/privacy#uslaws)
-
-[10. DO WE MAKE UPDATES TO THIS NOTICE?](https://store.soltide.net/legal/privacy#policyupdates)
-
-[11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](https://store.soltide.net/legal/privacy#contact)
-
-[12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](https://store.soltide.net/legal/privacy#request)\
-<br>
+1. [What information do we collect?](privacy.md#id-1.-what-information-do-we-collect)
+2. [How do we process your information?](privacy.md#id-2.-how-do-we-process-your-information)
+3. [What legal bases do we rely on to process your information?](privacy.md#id-3.-what-legal-bases-do-we-rely-on-to-process-your-information)
+4. [When and with whom do we share your personal information?](privacy.md#id-4.-when-and-with-whom-do-we-share-your-personal-information)
+5. [How long do we keep your personal information?](privacy.md#id-5.-how-long-do-we-keep-your-personal-information)
+6. [How do we keep your information safe?](privacy.md#id-6.-how-do-we-keep-your-information-safe)
+7. [What are your privacy rights?](privacy.md#id-7.-what-are-your-privacy-rights)
+8. [Controls for Do-Not-Track features.](privacy.md#id-8.-controls-for-do-not-track-features)
+9. [Do United States residents have specific privacy rights?](privacy.md#id-9.-do-united-states-residents-have-specific-privacy-rights)
+10. [Is more information collected on staff members?](privacy.md#id-10.-is-more-information-collected-on-staff-members)
+11. [Do we make updates to this notice?](privacy.md#id-11.-do-we-make-updates-to-this-notice)
+12. [How can we get in contact with you about this notice?](privacy.md#id-12.-how-can-we-get-in-contact-with-you-about-this-notice)\
+    <br>
 
 ### **1. What information do we collect?**
 
@@ -79,7 +68,7 @@ _**In Short:** We process your information to provide, improve, and administer o
 ### **3. What legal bases do we rely on to process your information?**
 
 _**In Short:** We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests and to provide you with our services._\
-&#xNAN;_**If you are located in the EU or UK, this section applies to you.**_\
+_**If you are located in the EU or UK, this section applies to you.**_\
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
 * **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about [withdrawing your consent](https://store.soltide.net/legal/privacy#withdrawconsent).
@@ -88,7 +77,7 @@ The General Data Protection Regulation (GDPR) and UK GDPR require us to explain 
 * **Vital Interests.** We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
 
 \
-&#xNAN;_**If you are located in Canada, this section applies to you.**_\
+_**If you are located in Canada, this section applies to you.**_\
 We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can [withdraw your consent](https://store.soltide.net/legal/privacy#withdrawconsent) at any time.\
 In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
 
