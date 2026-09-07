@@ -17,8 +17,8 @@ Soltide tries to create a fun and safe space for everyone, and thus please make 
 {% endhint %}
 
 * Disrespecting players is disallowed.
-* The use of slurs / discriminatory language is disallowed&#x20;
-* Spamming is disallowed
+* The use of slurs / discriminatory language is disallowed .
+* Spamming is disallowed.
   * Spamming is considered to be any communication deemed as annoying. Repeated messages (3+ Times), text blocks, copy pastas, or other forms of communication intentionally used to annoy or harass other players is disallowed
 * Advertising is disallowed.
   * You may advertise a stream (YouTube / Twitch) on the server with permission from a staff member.
@@ -60,9 +60,9 @@ This section only applies to you if you use a non-vanilla client.
 **Banned Client Modifications:**
 
 * Hack clients
-  * Common examples include: Wurst, Liquid Bounce, and Meteor&#x20;
+  * Common examples include: Wurst, Liquid Bounce, and Meteor.
 * Macros / Auto Mine
-  * All forms of automated inputs is disallowed!
+  * All forms of automated inputs is disallowed.
 * X-Ray / Ore Finder / ESP / Base Finder.
   * Any modification that allows you to see blocks / entities otherwise not viewable is disallowed.
 
@@ -78,6 +78,7 @@ This section only applies to you if you use a non-vanilla client.
   * If your farm uses more than 300 entities you may be asked to limit it or your farm may be removed.
 * Do not teleport trap / kill players. ([**See more info here**](tpa-trapping-killing.md))
 * Do not create obscene content, whether it be through builds, banners, map art, or other mediums.
+* Do not sell in game items for real life money.
 
 ### Account Customization
 
@@ -86,20 +87,24 @@ This section only applies to you if you use a non-vanilla client.
 
 ### Safety & Legal
 
-{% hint style="danger" %}
-While Soltide is a server in a game, real life laws still apply! Make sure you follow all local laws when playing.
-{% endhint %}
-
-**It is against the law  and rules to DDoS the server. Doing so will result in a blacklist and a report to the relevant authorities .**
+**It is against the law and rules to DoS the server. Doing so will result in a blacklist and is a crime in most states.**
 
 **It is against the law and rules to do or threaten to:**
 
-* Dox a person
-* DDoS a person or the server
-* Harass a person
-* Threaten the safety of a person
+* Dox a person.
+  * Doxxing refers to the malicious revealing of PII (Personally Identifiable Information) of a person.
+  * Learn more about what counts as PII [here](https://csrc.nist.gov/glossary/term/personally_identifiable_information).
+* DoS a person or the server.
+  * [DoS](https://en.wikipedia.org/wiki/Denial-of-service_attack), or Denial of Service (attack), is the act of intentionally blocking access to a resource. This is usually done by overwhelming a server with bot traffic.
+* Harass a person.
+  * Harassment refers to the repeated attacking and criticism of a person.
+  * Punishments may be escalated from disrespect to harassment if a person attacks someone based on a [protected characteristic](https://calcivilrights.ca.gov/disputeresolution/protected-characteristics/).
+* Threaten the real life safety of a person.
+* Engage in lewd activities with a person under the age of 18, share inappropriate photos of someone under the age of 18, or make lewd comments toward someone under the age of 18.
+  * Any violations of this rule will be reported to the National Center for Missing & Exploited Children.
+  * If punished for this rule your access to all of Soltide's services will be permanently revoked, you will not be able to appeal this punishment, and you will not be able to contact Soltide's support team.
 
-_A ban for any of the above reasons will be reported to authorities and **CANNOT** be appealed._
+_A ban for any of the above reasons may be permanent and may not be able to be removed._
 
 ### Facilitation
 
